@@ -2,9 +2,9 @@
  I am Frank, a physics undergraduate at University of Oxford. 
 
 - Nationality: 🇨🇳🇨🇳🇨🇳
+- Pronouns: He/Him/His
 - Interests 😎: Quantum Information, NLP, Finance 
 - How to reach me 📫 : chenykfrank@outlook.com
-- Pronouns: He/Him/His
 - Aim 🙌: To be a lifelong learner!
 
 My stacks:
