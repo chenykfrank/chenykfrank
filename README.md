@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 
+ I am Frank, a physics undergraduate at University of Oxford. 
 
-<!--
-**chenykfrank/chenykfrank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Nationality: 🇨🇳🇨🇳🇨🇳
+- Interests 😎: Quantum Information, NLP, Finance 
+- How to reach me 📫 : chenykfrank@outlook.com
+- Pronouns: He/Him/His
+- Aim 🙌: To be a lifelong learner!
 
-Here are some ideas to get you started:
+My stacks:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![](https://img.shields.io/badge/-Pytorch-orange)
+![](https://img.shields.io/badge/-Tensorflow-yellowgreen)
+![](https://img.shields.io/badge/-Numpy-brightgreen)
+![](https://img.shields.io/badge/-Pandas-yellow)
+![](https://img.shields.io/badge/-Matplotlib-blue)
+![](https://img.shields.io/badge/-C%2B%2B-lightgrey)
+
