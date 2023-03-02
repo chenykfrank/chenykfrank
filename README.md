@@ -3,7 +3,7 @@
 
 - Nationality: 🇨🇳🇨🇳🇨🇳
 - Pronouns: He/Him/His
-- Interests 😎: Quantum Information, NLP, Finance 
+- Interests 😎: Quantum Information, NLP, CV*RL, Finance 
 - How to reach me 📫 : chenykfrank@outlook.com
 - Aim 🙌: To be a lifelong learner!
 
