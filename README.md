@@ -1,7 +1,7 @@
 ### Hi there 👋 
  I am Frank, a physics undergraduate at University of Oxford. 
 
-- Nationality: 🇨🇳🇨🇳🇨🇳
+- Nationality: Chinese
 - Pronouns 😜: He/Him/His
 - Interests 😎: Quantum Information, NLP & LLMs, Finance 
 - How to reach me 📫 : chenykfrank@outlook.com
